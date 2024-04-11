@@ -9,15 +9,15 @@ public class Main {
     }
 
     private static void methodFernando() {
-        //Escribe aqui
+        System.out.println("H");
     }
     private static void methodDavid() {
-        System.out.println("El este mola más");
+        System.out.println("O");
     }
     private static void methodJaider() {
-        System.out.println("Hola MrBeast");
+        System.out.println("L");
     }
     private static void methodIrene() {
-        System.out.println("Hola como estas?");
+        System.out.println("A mrbeast");
     }
 }
