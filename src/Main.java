@@ -9,7 +9,7 @@ public class Main {
     }
 
     private static void methodFernando() {
-        System.out.println("Fer: Hola! que tal?");
+        System.out.println("Hola! que tal? Soy el Fer");
     }
     private static void methodDavid() {
         System.out.println("El este mola más");
