@@ -16,6 +16,6 @@ public class Main {
         //Escribe aqui
     }
     private static void methodIrene() {
-        //Escribe aqui
+        System.out.println("Hola como estas?");
     }
 }
