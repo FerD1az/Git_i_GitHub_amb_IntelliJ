@@ -7,11 +7,15 @@ public class Main {
     }
 
     private static void methodFernando() {
+        //Escribe aqui
     }
     private static void methodDavid() {
+        //Escribe aqui
     }
     private static void methodJaider() {
+        //Escribe aqui
     }
     private static void methodIrene() {
+        //Escribe aqui
     }
 }
