@@ -15,7 +15,7 @@ public class Main {
         System.out.println("El este mola más");
     }
     private static void methodJaider() {
-        //Escribe aqui
+        System.out.println("Hola MrBeast");
     }
     private static void methodIrene() {
         System.out.println("Hola como estas?");
